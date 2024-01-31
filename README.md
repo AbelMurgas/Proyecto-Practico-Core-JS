@@ -1,7 +1,7 @@
 # Proyecto-Practico-Core-JS
 La creación de este proyecto es con el fin de servir como practica del núcleo de Javascript como lenguaje de programación.
 
-**Se va a tener mi solución pronto en la rama “Resultado”**
+**Se va a tener mi solución pronto en al rama "Main"**
 
 ## Descripción del Proyecto:
 Se necesita crear un Sistema de Inventario y Gestión de Usuarios en una aplicación de línea de comandos desarrollada en Node.js (Entorno de javascript en el servidor) que simula un sistema de autenticación y un sistema de gestión de inventario. El objetivo principal es proporcionar una plataforma segura y eficiente para administrar usuarios y productos, utilizando técnicas de manejo de archivos, encriptación de contraseñas y operaciones CRUD.
